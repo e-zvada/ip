@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sochi Live HD" group-title="Sochi", Sochi Live HD
+#EXTGRP:Sochi
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
